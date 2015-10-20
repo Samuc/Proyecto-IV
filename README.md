@@ -54,7 +54,7 @@ Además , la plataforma actuará como una especia de red social, siendo capaz ca
 
 * **[Módulo 2, David Santiago Carrión](https://github.com/dscdac/Proyecto-IV-modulo2)**: Este módulo se enfocará del front-end de la aplicación.
 
-* **Módulo 3**: Por último, este módulo se encargará de gestionar el servidor web que alojará la aplicación.
+* **[Módulo 3, Samuel Carmona Soria](https://github.com/Samuc/Proyecto-IV-modulo3): Por último, este módulo se encargará de gestionar el servidor web que alojará la aplicación.
 
 ## Participación en el certamen de proyectos de libres organizado por la Oficina de Software Libre de la UGR
 
