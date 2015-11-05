@@ -100,6 +100,7 @@ class User (unittest.TestCase):
 
 ```
 
+
 Al ejecutar nosetests sobre éste archivo, podemos comprobar que pasa los tests correctamente:
 ![Ejecutando nosetests](http://i770.photobucket.com/albums/xx346/BkY_1234/captura_nosetests_zpsvp3ybx0t.jpg)
 
