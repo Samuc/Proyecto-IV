@@ -1,10 +1,7 @@
 # Work-in-out
 
-<<<<<<< HEAD
-=======
 #PRIMER HITO#
 
->>>>>>> fb38f1860212f085b2894bfa939c0da0e7681a2b
 ### Plataforma enfocada a los deportistas, híbrido entre red social y tablón de eventos. Proyecto relacionado con la asignatura DAI.
 
 ## Descripción general
